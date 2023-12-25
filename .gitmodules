@@ -1,4 +1,4 @@
 [submodule "themes/blowfish"]
 	path = themes/blowfish
-	url = https://github.com/endb1228/endb1228.github.io
+	url = https://github.com/endb1228/endb1228.github.io.git
 	branch = main
