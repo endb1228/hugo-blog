@@ -5,4 +5,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/endb1228/endb1228.github.io.git
-	branch = main
+	branch = gh-pages
